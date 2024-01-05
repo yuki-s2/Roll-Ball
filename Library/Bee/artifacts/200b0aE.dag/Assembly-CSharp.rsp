@@ -357,7 +357,6 @@
 -analyzer:"/Users/hondayuki/Desktop/VR/2022.3.16f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/ItemController.cs"
-"Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 
 /deterministic
